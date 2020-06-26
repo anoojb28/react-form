@@ -17,7 +17,7 @@
   font:inherit;
   padding: 6px 10px;
   display: block;
-  width: 100%;
+  width: calc(100% - 20px);;
 }
 .InputElement:focus {
   outline: none;
